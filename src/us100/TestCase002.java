@@ -5,6 +5,8 @@ public class TestCase002 {
 
         System.out.println("Git/Github practice");
 
+        System.out.println("Wooden Spoon");
+
 
     }
 }
